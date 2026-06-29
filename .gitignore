@@ -1,5 +1,6 @@
 
 cache/*
+modules/AOD_Index/
 
 config.php
 config_override.php
