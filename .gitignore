@@ -1,5 +1,6 @@
-
-cache/*
+cache/include
+cache/smarty
+cache/themes
 modules/AOD_Index/
 
 config.php
